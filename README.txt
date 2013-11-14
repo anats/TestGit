@@ -2,6 +2,9 @@
 
 == Description ==
 
+
+BUT I ACTUALLY WANTED THIS CODE!!!!!
+
 MPDAF is the MUSE Python Data Analysis Framework.
 Its goal is to develop a python framework in view of the analysis of MUSE data in the context of the GTO. 
 
